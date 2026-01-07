@@ -1,5 +1,5 @@
 import express from "express";
-import { sum } from "./sum.js";
+import { sum } from "./sum.mjs";
 const app = express();
 const PORT = 9000;
 
