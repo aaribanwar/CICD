@@ -1,0 +1,27 @@
+{
+  "name": "cicd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon sever.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aaribanwar/CICD.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/aaribanwar/CICD/issues"
+  },
+  "homepage": "https://github.com/aaribanwar/CICD#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "jest": "^30.2.0",
+    "nodemon": "^3.1.11"
+  }
+}
